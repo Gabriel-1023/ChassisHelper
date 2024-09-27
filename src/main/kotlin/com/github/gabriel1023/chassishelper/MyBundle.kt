@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.gabriel1023.chassishelper
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
